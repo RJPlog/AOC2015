@@ -1,3 +1,6 @@
+
+// https://www.youtube.com/watch?v=LPT7v69guVY: How to connect on Github
+
 // 01.03.2020 starting to learn Kotlin with how to read files
 // Leasons Learned:
 //	-	Erstmalig ein File eingelesen, allerdings nur als kompletten String
